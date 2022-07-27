@@ -10,4 +10,4 @@ plt.show()
 smoothed = gaussian(foto, multichannel=True, sigma=2)
 
 plt.imshow(smoothed)
-plt.show
+plt.show()
